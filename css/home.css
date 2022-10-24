@@ -143,6 +143,10 @@ a {
   text-align: left;
 }
 
+.tt h3{
+  font-size: 25px;
+}
+
 .menu {
   z-index: 1;
 }
@@ -179,7 +183,7 @@ button:hover span {
   display: inline;
 }
 
-@media screen and (max-width:1000px) {
+@media screen and (max-width:600px) {
   section{
     margin-top: 70px;
   }
